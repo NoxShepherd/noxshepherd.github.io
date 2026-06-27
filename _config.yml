@@ -19,7 +19,7 @@ title: NoxShepherd # the main title
 tagline: Cybersecurity | Red Teaming | Offensive Security # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-IT Security professional transitioning into Red Teaming. Passionate about offensive security, penetration testing, and adversary simulation.
+  IT Security professional transitioning into Red Teaming. Passionate about offensive security, penetration testing, and adversary simulation.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
