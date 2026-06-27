@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe - Practical WebShell Walkthrough"
-date: 2026-06-28 09:00:00 +0700
+date: 2026-06-28 00:01:00 +0700
 categories: [TryHackMe, Web Exploitation]
 tags:
   - tryhackme
