@@ -21,8 +21,8 @@ comments: true
 Web applications remain one of the most common attack surfaces in modern infrastructures. A single insecure implementation can expose an entire server to remote code execution, allowing attackers to execute arbitrary commands, upload malicious files, and potentially compromise sensitive systems.
 
 In this walkthrough, I will demonstrate how I solved the Practical Task WebShell room on TryHackMe by exploiting two common web application vulnerabilities:
-•	Command Injection
-•	Unrestricted File Upload
+- Command Injection
+- Unrestricted File Upload
 
 Both attack paths ultimately provide command execution on the target server, but they leverage different exploitation techniques. Along the way, I will explain not only how each exploit works, but also why it works, the associated risks, and defensive measures that organizations should implement.
 
@@ -35,12 +35,12 @@ Both attack paths ultimately provide command execution on the target server, but
 
 # Learning Objectives
 After completing this room, you should understand:
-•	How to perform basic reconnaissance
-•	How Command Injection leads to Remote Code Execution
-•	How Reverse Shells work internally
-•	How Web Shells differ from Reverse Shells
-•	Why unrestricted file uploads are dangerous
-•	Best practices for mitigating these vulnerabilities
+- How to perform basic reconnaissance
+- How Command Injection leads to Remote Code Execution
+- How Reverse Shells work internally
+- How Web Shells differ from Reverse Shells
+- Why unrestricted file uploads are dangerous
+- Best practices for mitigating these vulnerabilities
 
 
 ---
@@ -50,7 +50,6 @@ After completing this room, you should understand:
 | Item | Value |
 |------|------|
 | Platform | TryHackMe |
-| Difficulty | Easy |
 | Target OS | Linux |
 | Techniques | Reverse Shell, Web Shell |
 
