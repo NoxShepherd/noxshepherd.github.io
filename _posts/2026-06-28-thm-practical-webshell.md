@@ -1,13 +1,13 @@
 ---
-title: "TryHackMe - Practical Task - SQLMap The Basics"
+title: "TryHackMe - Practical Task - WebShell"
 date: 2026-06-28 00:01:00 +0700
 categories: [TryHackMe, Web Exploitation]
 tags:
   - tryhackme
-  - sql-injection
-  - sqlmap
-  - database
-  - linux
+  - webshell
+  - php
+  - file-upload
+  - rce
   - beginner
 author: NoxShepherd
 toc: true
