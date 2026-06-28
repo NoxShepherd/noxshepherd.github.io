@@ -37,13 +37,9 @@ social:
   name: NoxShepherd # change to your full name
   email: hanifprasetiyo0@gmail.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
-  links:
-    # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/NoxShepherd # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+links:
+  - https://github.com/NoxShepherd
+  - https://www.linkedin.com/in/hanif-prasetiyo-4725a2192/
 
 # Site Verification Settings
 webmaster_verifications:
