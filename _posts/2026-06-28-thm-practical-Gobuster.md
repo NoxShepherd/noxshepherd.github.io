@@ -12,7 +12,7 @@ tags:
   - DNS Enumeration
   - Virtual Host
   - Reconnaissance
-image: /assets/images/posts/gobuster-banner.png
+# image: /assets/images/posts/gobuster-banner.png
 ---
 
 # TryHackMe — Gobuster: The Basics
