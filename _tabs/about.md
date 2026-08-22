@@ -4,4 +4,4 @@ icon: fas fa-user-secret
 order: 4
 ---
 
-{% include nxp_portfolio.html %}
+{% include nxp_about.html %}
